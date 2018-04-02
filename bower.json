@@ -5,7 +5,8 @@
     "bootstrap": "~4.0.0-alpha.6",
     "modernizr": "~2.8.1",
     "jquery": "^3.3.1",
-    "popper.js": "^1.14.1"
+    "popper.js": "^1.14.1",
+    "fontawesome": "^5.0.9"
   },
   "devDependencies": {
     "chai": "^4.1.2",
